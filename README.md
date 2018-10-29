@@ -94,7 +94,7 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Introduction:
 * Through this project, a user can create their own personal library.
 * The user can further categorize the books as "Currently Reading", or "Read" or as "Want to Read".
-* These BooksApp can be organized in different Shelves.
+* These BooksApp can be organized in three different Shelves.
 
 ## Installation and Launching Process:
 * Use the command "npm install" to install the node packages that are required for the application.
